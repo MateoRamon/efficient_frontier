@@ -1,4 +1,4 @@
-# The Efficinet Frontier (Markowitz Portfolio Optimisation)
+# The Efficient Frontier (Markowitz Portfolio Optimisation)
 
 Attached Jupyter Notebook is the efficient frontier modeling I implemented as a part of my blog post.
 Accompanying blog posts can be found from my Medium account:
